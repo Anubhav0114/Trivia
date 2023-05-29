@@ -18,6 +18,7 @@ class GameFragment : Fragment() {
         }
     }
 
+    // override function
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
